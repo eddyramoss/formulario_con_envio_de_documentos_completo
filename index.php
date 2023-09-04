@@ -20,11 +20,11 @@
 
 	<div class="content">
 
-		<h1 class="logo">Contact <span>Us</span></h1>
+		<h1 class="logo">Contáctanos <span>Us</span></h1>
 
 		<div class="contact-wrapper animated bounceInUp">
 			<div class="contact-form">
-				<h3>Contact us</h3>
+				<h3>Llena tus datos completos</h3>
 				<form action="enviar.php" enctype="multipart/form-data" method="POST" id="denuncia-form">
 					<p>
 						<label>Nombre Completo</label>
